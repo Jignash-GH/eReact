@@ -45,8 +45,8 @@ Deploy the application on Netlify or GitHub Pages for live access.
 
 ## ⚡ Getting Started
 
-### 1️⃣ Install dependencies
+### 1️⃣ Clone the repository
 ```bash
-npm install
-
+git clone https://github.com/Jignash-GH/eReact.git
+cd eReact
 
