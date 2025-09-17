@@ -1,4 +1,3 @@
-# eReact
 
 # eReact 🚀
 
