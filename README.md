@@ -24,6 +24,7 @@ This project demonstrates how to structure a React app with components, state ma
 ---
 
 ## 📂 Project Structure
+
 eReact/
 ├── src/
 │ ├── components/ # Reusable UI components
@@ -32,6 +33,13 @@ eReact/
 ├── public/
 └── package.json
 
+## 🌟 Future Improvements
+
+This project can be expanded further in the following ways:  
+Add routing with React Router.  
+Add state management using Redux or Context API.  
+Connect with a backend API for dynamic data.  
+Deploy the application on Netlify or GitHub Pages for live access.
 
 
 ---
@@ -43,13 +51,3 @@ eReact/
 npm install
 
 
----
-🌟 Future Improvements
-
-Add routing with React Router
-
-Add state management (Redux / Context API)
-
-Connect with a backend API
-
-Deploy on Netlify / GitHub Pages
