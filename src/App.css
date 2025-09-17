@@ -1,0 +1,101 @@
+li{
+    list-style-type: none;
+    align-items: center;
+    text-align: center;
+}
+
+.navbar .nav-item a {
+  text-decoration: none;
+  
+  color: inherit;
+}
+
+ul{
+    display: flex;
+    justify-content:space-around;
+    
+    align-items: center;
+}
+button{
+color: rgb(47, 45, 45); 
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+ 
+}
+button:hover{
+
+    transform: scale(1.01);
+    transition: all 0.3s ease-in-out;
+}
+.content-head{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-image: url('C:\Users\jigna\OneDrive\Desktop\nodejs\website\src\assets\vecteezy_asian-delivery-express-courier-young-man-use-giving-boxes-to_44836548.JPG');
+   background-size: cover; 
+   color: white;
+    padding: 105px;
+    text-align: center;
+    background-position: center;
+}
+.content-body{
+  margin-top: 20px;
+  box-sizing: border-box;
+  padding: 39px;
+  border-radius: 2px solid black;
+}
+footer{
+position:relative;
+background-color: darkblue;margin-top: 50px;
+padding: 20px;
+color:white;
+}
+.mag {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 320px;
+  margin: 60px 0;
+}
+
+.content-box {
+  
+  padding-right: 20px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.image-box {
+  width: 420px;
+  height: 130px;
+  margin-top: -50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-image {
+  width: 9000px;
+  height: 240px;
+  object-fit: contain;
+}
+.sidebyside{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.formfill{
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+}
